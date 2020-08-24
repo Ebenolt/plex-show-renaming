@@ -1,9 +1,9 @@
-# Series Renamer (Plex, Kodi, Emby, Stremio, etc...)
+# Show  Renamer (Plex, Kodi, Emby, Stremio, etc...)
 Automatically rename shows to clean &amp; readeable nomenclature
 
 ## How to use
 
-Create a folder with the show name for each serie you want to rename and then copy every season folder in this main folder
+Create a folder with the show name for each show you want to rename and then copy every season folder in this main folder
 
 eg:
 
