@@ -1,9 +1,9 @@
 # Series Renamer (Plex, Kodi, Emby, Stremio, etc...)
-Automatically rename series to clean &amp; readeable nomenclature
+Automatically rename shows to clean &amp; readeable nomenclature
 
 ## How to use
 
-Create a folder with the serie name for each serie you want to rename and then copy every season folder in this main folder
+Create a folder with the show name for each serie you want to rename and then copy every season folder in this main folder
 
 eg:
 
@@ -17,7 +17,7 @@ Then run :
 ```bash
 user@server:~/rename_folder/$ ./rename.sh
 
-Serie: Arrow
+Show: Arrow
   Season: 01
     EP:, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
   Season: 02
@@ -34,7 +34,7 @@ Serie: Arrow
     EP:, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22
   Season: 08
     EP:, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10
-Serie: Friends
+Show: Friends
   Season: 01
     EP:, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
   Season: 02
@@ -55,7 +55,7 @@ Serie: Friends
     EP:, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24
   Season: 10
     EP:, 01, 02, 03
-Serie: How I Met Your Mother
+Show: How I Met Your Mother
   Season: 01
     EP:, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22
   Season: 02
