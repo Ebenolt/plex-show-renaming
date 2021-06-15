@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-filetypes=(".avi" ".mkv" ".mp4" ".ogm")
+filetypes=(".avi" ".mkv" ".mp4")
 basedir=$(pwd)
 script=`basename "$0"`
 
